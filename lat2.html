@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <title>Latihan 2</title>
+</head>
+<body>
+    <div id="app">
+        <p>{{greet('Dystian en yusgiantoro')}}</p>
+    </div>
+    <script>
+    var app = new Vue ({
+        el : '#app',
+        methods : {
+        greet: function (name) {
+            return 'Good Morning'+ ', ' + name ;
+            }
+        }
+    });
+    </script>
+</body>
+</html>
