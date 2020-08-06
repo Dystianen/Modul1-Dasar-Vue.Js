@@ -1,0 +1,10 @@
+# Modul1-Dasar-Vue.Js
+![lat1](https://user-images.githubusercontent.com/46418294/89488773-00d12800-d7d3-11ea-9ade-92413d841d7f.PNG)
+![lat2](https://user-images.githubusercontent.com/46418294/89488750-fc0c7400-d7d2-11ea-9e7a-e4ee61c75984.PNG)
+![lat2-binding](https://user-images.githubusercontent.com/46418294/89488756-fd3da100-d7d2-11ea-8aa3-2bd8292081ee.PNG)
+![lat2-bindingtelkom](https://user-images.githubusercontent.com/46418294/89488759-fdd63780-d7d2-11ea-9220-e5030fce779e.PNG)
+![lat3](https://user-images.githubusercontent.com/46418294/89488761-fe6ece00-d7d2-11ea-918d-2f3236cdc7bf.PNG)
+![lat4](https://user-images.githubusercontent.com/46418294/89488763-fe6ece00-d7d2-11ea-9441-d42e5b916a7a.PNG)
+![lat5](https://user-images.githubusercontent.com/46418294/89488766-ff076480-d7d2-11ea-9cf2-e665654d2ef2.PNG)
+![lat6](https://user-images.githubusercontent.com/46418294/89488768-ff9ffb00-d7d2-11ea-940f-ce1b1d781054.PNG)
+![lat7](https://user-images.githubusercontent.com/46418294/89488771-00389180-d7d3-11ea-9d50-63d4772446c1.PNG)
